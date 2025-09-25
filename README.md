@@ -17,8 +17,7 @@ A **task management widget** where users can:
 - Includes **3 sample tasks**.
 
 ### 🎥 Demo
-<video src="Uploading challenge1.mp4" width="350" controls></video>
-
+https://github.com/user-attachments/assets/81eb71b3-4fc7-4a0e-99aa-c3b59443ed6f
 ---
 
 ## 📌 Challenge 2: Interactive Physics Widget
@@ -30,7 +29,6 @@ A **mini physics simulation** using `Draggable` and `DragTarget`:
 - Handles incorrect drops gracefully.
 
 ### 🎥 Demo
-<video src="Uploading challenge2.mp4" width="350" controls></video>
 
 ---
 
@@ -43,7 +41,6 @@ A **loading animation widget** using `AnimationController`:
 - Uses **smooth curves** for natural motion.
 
 ### 🎥 Demo
-<video src="Uploading challenge3.mp4" width="350" controls></video>
 
 ---
 
