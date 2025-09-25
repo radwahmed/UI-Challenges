@@ -29,7 +29,7 @@ A **mini physics simulation** using `Draggable` and `DragTarget`:
 - Handles incorrect drops gracefully.
 
 ### 🎥 Demo
-<video src="file:///C:/Users/Radwa/Videos/Captures/challenge2.mp4" width="350" controls></video>
+<video src="file:/C:/Users/Radwa/Videos/Captures/challenge2.mp4" width="350" controls></video>
 ---
 
 ## 📌 Challenge 3: Advanced Animation Chain
