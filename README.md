@@ -17,7 +17,7 @@ A **task management widget** where users can:
 - Includes **3 sample tasks**.
 
 ### 🎥 Demo
-https://github.com/user-attachments/assets/81eb71b3-4fc7-4a0e-99aa-c3b59443ed6f
+<video src="https://github.com/user-attachments/assets/81eb71b3-4fc7-4a0e-99aa-c3b59443ed6f" width="350" controls></video>
 ---
 
 ## 📌 Challenge 2: Interactive Physics Widget
