@@ -54,7 +54,5 @@ A **loading animation widget** using `AnimationController`:
 ---
 
 ## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/flutter-challenges.git
-   cd flutter-challenges
+1. Clone thie repository
+ 
