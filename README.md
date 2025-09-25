@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/81eb71b3-4fc7-4a0e-99aa-c3b59443ed6f
 # Flutter Challenges 🚀
 
 This repository contains three interactive Flutter challenges that demonstrate different concepts:  
@@ -17,7 +19,7 @@ A **task management widget** where users can:
 - Includes **3 sample tasks**.
 
 ### 🎥 Demo
-<img "Uploading Android Emulator - Radwa_5554 2025-09-25 16-38-48.mp4…">
+<video src="Uploading challenge1.mp4" width="350" controls></video>
 
 ---
 
@@ -30,7 +32,7 @@ A **mini physics simulation** using `Draggable` and `DragTarget`:
 - Handles incorrect drops gracefully.
 
 ### 🎥 Demo
-<img Uploading Android Emulator - Radwa_5554 2025-09-25 16-44-03.mp4…>
+<video src="Uploading challenge2.mp4" width="350" controls></video>
 
 ---
 
@@ -43,7 +45,7 @@ A **loading animation widget** using `AnimationController`:
 - Uses **smooth curves** for natural motion.
 
 ### 🎥 Demo
-<img Uploading Android Emulator - Radwa_5554 2025-09-25 16-47-34.mp4…>
+<video src="Uploading challenge3.mp4" width="350" controls></video>
 
 ---
 
