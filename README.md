@@ -1,16 +1,62 @@
-# flutter_widgets
+# Flutter Challenges 🚀
 
-A new Flutter project.
+This repository contains three interactive Flutter challenges that demonstrate different concepts:  
+- Lists with gestures (Dismissible + Reorderable)  
+- Physics-based interactions (Draggable + DragTarget)  
+- Advanced animations (AnimationController with Tweens)  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Challenge 1: Interactive Dismissible Lists
 
-A few resources to get you started if this is your first Flutter project:
+A **task management widget** where users can:
+- Swipe to delete tasks (`Dismissible`).
+- Drag to reorder (`ReorderableListView`).
+- Confirm before deletion (Dialog).
+- Undo deletion (`SnackBar`).
+- Includes **3 sample tasks**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🎥 Demo
+<Uploading Android Emulator - Radwa_5554 2025-09-25 16-38-48.mp4…>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📌 Challenge 2: Interactive Physics Widget
+
+A **mini physics simulation** using `Draggable` and `DragTarget`:
+- Drag colored balls into their matching containers.
+- Provides **visual feedback** while dragging.
+- Shows **success state** for correct matches.
+- Handles incorrect drops gracefully.
+
+### 🎥 Demo
+<Uploading Android Emulator - Radwa_5554 2025-09-25 16-44-03.mp4…>
+
+---
+
+## 📌 Challenge 3: Advanced Animation Chain
+
+A **loading animation widget** using `AnimationController`:
+- Animates **3 dots** that scale and fade sequentially.
+- Uses multiple **Tween animations**.
+- Runs in a **continuous loop**.
+- Uses **smooth curves** for natural motion.
+
+### 🎥 Demo
+<Uploading Android Emulator - Radwa_5554 2025-09-25 16-47-34.mp4…>
+
+---
+
+## 🛠️ Technologies & Widgets Used
+- **Flutter SDK**
+- `Dismissible`, `ReorderableListView`
+- `Draggable`, `DragTarget`
+- `AnimationController`, `Tween`, `FadeTransition`, `ScaleTransition`
+
+---
+
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-challenges.git
+   cd flutter-challenges
