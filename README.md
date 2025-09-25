@@ -29,8 +29,9 @@ A **mini physics simulation** using `Draggable` and `DragTarget`:
 - Handles incorrect drops gracefully.
 
 ### 🎥 Demo
-<video src="file:/C:/Users/Radwa/Videos/Captures/challenge2.mp4" width="350" controls></video>
+<video src="https://github.com/user-attachments/assets/9da3a796-8026-4f1c-a06b-8847882fbd31" width="350" controls></video>
 ---
+
 
 ## 📌 Challenge 3: Advanced Animation Chain
 
@@ -41,7 +42,7 @@ A **loading animation widget** using `AnimationController`:
 - Uses **smooth curves** for natural motion.
 
 ### 🎥 Demo
-
+<video src="https://github.com/user-attachments/assets/03f05930-5d09-4867-affc-22374dfa9e03" width="350" controls></video>
 ---
 
 ## 🛠️ Technologies & Widgets Used
