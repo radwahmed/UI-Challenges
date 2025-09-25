@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/81eb71b3-4fc7-4a0e-99aa-c3b59443ed6f
 # Flutter Challenges 🚀
 
 This repository contains three interactive Flutter challenges that demonstrate different concepts:  
