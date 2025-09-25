@@ -17,7 +17,7 @@ A **task management widget** where users can:
 - Includes **3 sample tasks**.
 
 ### 🎥 Demo
-<Uploading Android Emulator - Radwa_5554 2025-09-25 16-38-48.mp4…>
+<img Uploading Android Emulator - Radwa_5554 2025-09-25 16-38-48.mp4…>
 
 ---
 
@@ -30,7 +30,7 @@ A **mini physics simulation** using `Draggable` and `DragTarget`:
 - Handles incorrect drops gracefully.
 
 ### 🎥 Demo
-<Uploading Android Emulator - Radwa_5554 2025-09-25 16-44-03.mp4…>
+<img Uploading Android Emulator - Radwa_5554 2025-09-25 16-44-03.mp4…>
 
 ---
 
@@ -43,7 +43,7 @@ A **loading animation widget** using `AnimationController`:
 - Uses **smooth curves** for natural motion.
 
 ### 🎥 Demo
-<Uploading Android Emulator - Radwa_5554 2025-09-25 16-47-34.mp4…>
+<img Uploading Android Emulator - Radwa_5554 2025-09-25 16-47-34.mp4…>
 
 ---
 
